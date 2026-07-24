@@ -225,4 +225,4 @@ plt.show()
 <img width="1398" height="990" alt="image" src="https://github.com/user-attachments/assets/58af19fb-8ab2-42e9-b2a9-fbdcfa114243" />
 
 # Results
-Impulse, natural, and flat-top sampling were successfully implemented, and the reconstructed signals closely matched the original message signal, with flat-top sampling showing slight amplitude distortion due to the sample-and-hold effect.
+Thus Ideal, natural, and flat-top sampling were successfully implemented, and the reconstructed signals closely matched the original message signal, with flat-top sampling showing slight amplitude distortion due to the sample-and-hold effect.
