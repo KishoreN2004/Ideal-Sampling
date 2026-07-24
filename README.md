@@ -7,7 +7,7 @@ Google Colab
 
 # Program
 
-# Impulse Sampling
+# Ideal Sampling
 ```
 import numpy as np
 import matplotlib.pyplot as plt
@@ -210,7 +210,7 @@ plt.show()
 
 # Output Waveform
 
-# Impulse Sampling 
+# Ideal Sampling 
 
 <img width="866" height="393" alt="image" src="https://github.com/user-attachments/assets/ac402420-5e60-4e16-9a41-3f0047118e5a" />
 <img width="866" height="393" alt="image" src="https://github.com/user-attachments/assets/8e1e0683-659d-4240-93e6-2fd2a35f9868" />
