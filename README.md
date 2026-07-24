@@ -219,16 +219,10 @@ plt.show()
 # Natural Sampling
 
 <img width="1390" height="989" alt="image" src="https://github.com/user-attachments/assets/a765d350-a0af-459a-9f7a-c4c5c29faf24" />
-<img width="1390" height="989" alt="image" src="https://github.com/user-attachments/assets/17b78a7f-abbd-48d0-89c8-7cde3f0e5277" />
-<img width="1390" height="989" alt="image" src="https://github.com/user-attachments/assets/72ef0fe0-5e8f-4365-b208-60854c79a496" />
-<img width="1390" height="989" alt="image" src="https://github.com/user-attachments/assets/34081a84-85b5-4516-ae31-ecee787ac8b1" />
 
 # Flat Top Sampling
 
 <img width="1398" height="990" alt="image" src="https://github.com/user-attachments/assets/58af19fb-8ab2-42e9-b2a9-fbdcfa114243" />
-<img width="1398" height="990" alt="image" src="https://github.com/user-attachments/assets/233a5b8e-2ca7-4f49-883c-9c874594fce5" />
-<img width="1398" height="990" alt="image" src="https://github.com/user-attachments/assets/3b859002-9b4a-4479-aa73-f0394aba2ae2" />
-<img width="1398" height="990" alt="image" src="https://github.com/user-attachments/assets/0c0b4b66-0122-4f23-8861-ece14668f95e" />
 
 # Results
 Impulse, natural, and flat-top sampling were successfully implemented, and the reconstructed signals closely matched the original message signal, with flat-top sampling showing slight amplitude distortion due to the sample-and-hold effect.
